@@ -1,17 +1,13 @@
-h1{
-    color : green ;
+li{
+  color: blue ;
 }
 
-h2{
-    color : magenta;
+.done{
+  color: grey;
 }
 
-p{
-    color: white;
-    background-color: black;
+#clear{
+  background-color: red;
+  color: white;
 }
-
-button{
-    color: red;
-    background-color: pink;
-}
+/* Make the element with the id of 'clear' have a red BG and white text */
