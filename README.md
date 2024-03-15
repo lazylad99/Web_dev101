@@ -1,19 +1,5 @@
-# First Assignment
-Please style the elements according to these rules:
 
-h1s - green text
+# Checkerboard Exercise
+The index.html file contains 25 <div> elements, each with the class of square. Please create a simple checkerboard pattern by making the even squares black and the odd squares red.  Your result should look like the image below.  Please write your styles in app.css, and do not change any of the styles in NO_TOUCHING.css :)
 
-h2s - magenta text
-
-paragraphs - white text
-           - black background color
-           
-buttons - red text
-        - pink background color
-        
-body - height 100vh
-
-change to the whole background - either linear-gradient
-without repeating and to whole viewport
-
-add a small img - setting its position in bottom right corner
+Please note: the solution needs to select both the even and odd squares, changing the background color of the entire board will work visually, but will not pass the exercise parameters.
